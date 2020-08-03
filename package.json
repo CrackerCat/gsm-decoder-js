@@ -1,0 +1,24 @@
+{
+  "name": "gsm-decoder",
+  "version": "1.0.0",
+  "description": "GSM 6.10 decoder(transpiled from a Java implementation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frozen-Tofu/gsm-decoder-js.git"
+  },
+  "keywords": [
+    "audio",
+    "gsm",
+    "decoder"
+  ],
+  "author": "Li Keqing",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Frozen-Tofu/gsm-decoder-js/issues"
+  },
+  "homepage": "https://github.com/Frozen-Tofu/gsm-decoder-js#readme"
+}
